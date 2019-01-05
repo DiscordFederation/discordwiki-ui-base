@@ -1,7 +1,7 @@
 {
-  "name": "wikimedia-ui-base",
+  "name": "discordwiki-ui-base",
   "version": "0.13.0",
-  "description": "Wikimedia Foundation user interface base variables files",
+  "description": "Fork of Wikimedia Foundation user interface base variables files for Discord Wiki",
   "keywords": [
     "css",
     "less",
@@ -10,7 +10,7 @@
   "homepage": "https://www.mediawiki.org/wiki/Wikimedia_User_Interface",
   "repository": {
     "type": "git",
-    "url": "https://phabricator.wikimedia.org/diffusion/WMUI/wikimedia-ui.git"
+    "url": "https://github.com/DiscordFederation/discordwiki-ui-base.git"
   },
   "scripts": {
     "test": "grunt"
