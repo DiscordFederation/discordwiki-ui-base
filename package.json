@@ -1,6 +1,6 @@
 {
   "name": "discordwiki-ui-base",
-  "version": "0.13.0",
+  "version": "0.1.0",
   "description": "Fork of Wikimedia Foundation user interface base variables files for Discord Wiki",
   "keywords": [
     "css",
