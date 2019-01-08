@@ -98,7 +98,7 @@
 	--background-color-primary:        var( --dwui-color-accent90 );
 	--background-color-primary--hover: rgba( 41, 98, 204, 0.1 );
 	--color-primary:                   var( --dwui-color-accent50 );
-	--color-primary--hover:            #447ff5; /* = `filter: brightness( 109% )` */
+	--color-primary--hover:            #7b93ed; /* = `filter: brightness( 109% )` */
 	--color-primary--active:           var( --dwui-color-accent30 );
 	--color-primary--focus:            var( --color-primary );
 	/* 'Destructive' Color, Background Color and states */
