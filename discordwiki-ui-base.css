@@ -86,7 +86,7 @@
 
 	/* Foreground Colors */
 	--color-base:                      var( --dwui-color-base10 );
-	--color-base--hover:               #444;
+	--color-base--hover:               #bbb;
 	--color-base--active:              var( --dwui-color-base0 );
 	--color-base--inverted:            var( --dwui-color-base100 );
 	--color-base--emphasized:          var( --color-base--active );
