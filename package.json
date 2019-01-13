@@ -7,7 +7,7 @@
     "less",
     "ui"
   ],
-  "homepage": "https://www.mediawiki.org/wiki/Wikimedia_User_Interface",
+  "homepage": "https://www.discordwiki.org/wiki/Discordwiki_User_Interface",
   "repository": {
     "type": "git",
     "url": "https://github.com/DiscordFederation/discordwiki-ui-base.git"
