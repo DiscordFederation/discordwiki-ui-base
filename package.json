@@ -1,13 +1,13 @@
 {
   "name": "discordwiki-ui-base",
-  "version": "0.1.0",
+  "version": "0.14.0",
   "description": "Fork of Wikimedia Foundation user interface base variables files for Discord Wiki",
   "keywords": [
     "css",
     "less",
     "ui"
   ],
-  "homepage": "https://www.discordwiki.org/wiki/Discordwiki_User_Interface",
+  "homepage": "https://www.discordwiki.com/wiki/Discordwiki_User_Interface",
   "repository": {
     "type": "git",
     "url": "https://github.com/DiscordFederation/discordwiki-ui-base.git"
@@ -17,9 +17,9 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "grunt": "1.0.3",
+    "grunt": "1.0.4",
     "grunt-contrib-watch": "1.1.0",
-    "grunt-stylelint": "0.10.1",
-    "stylelint-config-wikimedia": "0.5.0"
+    "grunt-stylelint": "0.11.1",
+    "stylelint-config-wikimedia": "0.6.0"
   }
 }
