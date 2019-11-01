@@ -81,9 +81,9 @@
 	/* Tabs Navigation Background Color */
 	--background-color-tabs:           var( --dwui-color-base80 );
 	/* User system messages (errors, warnings, successes, notices) */
-	--background-color-error--framed:  var( --dwui-color-red90 );
-	--background-color-warning--framed: var( --dwui-color-yellow90 );
-	--background-color-success--framed: var( --dwui-color-green90 );
+	--background-color-error--framed:  var( --dwui-color-base80 );
+	--background-color-warning--framed: var( --dwui-color-base80 );
+	--background-color-success--framed: var( --dwui-color-base80 );
 	--background-color-notice--framed: var( --dwui-color-base80 );
 	/* Highlight Colors, RGBA Colors include hex fallback on `#fff` for IE 8 */
 	--background-color-highlight:      rgba( 255, 182, 13, 0.4 );
